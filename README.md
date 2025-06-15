@@ -1,3 +1,3 @@
 - extract_sfm_ase.ipynb：[[Rosner+, 2014]](https://journals.pan.pl/Content/101491/PDF/22_paper.pdf)を参考に、実際にドラムの音でSpectral Flatness Measure(SFM)やAudio Spectrum Envelope(ASE)を算出したコード。
 - genre_classification_sfm_ase.ipynb：ボーカルパーカッション音のSFMやASEを算出し、SVMを用いてジャンル分類を行ったコード。詳細はシステム情報学輪講.pdfの18ページ以降を参照ください。
-- その他：ボーカルパーカッション合成の研究お行うにあたり、可視化のために用いたコード。
+- その他：ボーカルパーカッション合成の研究を行うにあたり、可視化のために用いたコード。
